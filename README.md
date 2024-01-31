@@ -1,9 +1,9 @@
 # Industrial Engineer
 
-### Education
+## Education
 MSc in Industrial Engineering
 
-### Work Experience
+## Work Experience
 
 ### ACCIONA. Construction & Operations Intern. 
 Jan 2023-Jul 2023 
