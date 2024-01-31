@@ -5,7 +5,8 @@ MSc in Industrial Engineering
 
 ### Work Experience
 
-# ACCIONA. Construction & Operations Intern.                                                                                             Jan 2023-Jul 2023 
+### ACCIONA. Construction & Operations Intern. 
+Jan 2023-Jul 2023 
 
 Support to the tender department in the elaboration of the construction budget for industrial power plants.
 Among the tasks I performed included:
@@ -13,7 +14,7 @@ Among the tasks I performed included:
 -	Collaboration with the technical team to ensure compliance with industry standards and project objectives.
 -	Involved in various energy projects such as, Waste to Energy, Photovoltaic (PV) Plants, and Carbon Capture Facilities to be built in different locations globally.
 
-# Naturgy. Data Analyst Intern.
+### Naturgy. Data Analyst Intern.
 Jun 2022-Jan 2023
  
 Internship in the System Operation department helping to implement solutions based on data analytics.
